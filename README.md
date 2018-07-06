@@ -7,3 +7,5 @@ Register for events of module.
 
 Start the communication!
 Example server and client projects included in the latest branch.
+
+![alt text](https://raw.githubusercontent.com/kdrcetintas/ksockets/master/kSockChannel/Example.png)
